@@ -1,0 +1,3 @@
+C:\Users\user\Desktop\net core\WebAppCore\DummyData\obj\Debug\netcoreapp3.1\DummyData.csprojAssemblyReference.cache
+C:\Users\user\Desktop\net core\WebAppCore\DummyData\obj\Debug\netcoreapp3.1\DummyData.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\net core\WebAppCore\DummyData\obj\Debug\netcoreapp3.1\DummyData.AssemblyInfo.cs
